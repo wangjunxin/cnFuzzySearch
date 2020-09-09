@@ -370,7 +370,6 @@ const list = ['北京市',
 '新界',
 '澳门半岛',
 '离岛']
-const test = ['杭州', '上海', '重庆', '三亚']
-fuzzysearch.formateCNMap(test)
-const s = fuzzysearch.search('ha州')
+fuzzysearch.formateCNMap(list)
+const s = fuzzysearch.search('an亚')
 console.log('result: ', s)
