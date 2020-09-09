@@ -1,0 +1,22 @@
+{
+  "name": "cnfuzzysearch",
+  "version": "1.0.0",
+  "description": "中文模糊搜索",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "中文",
+    "模糊",
+    "搜索",
+    "Chinese",
+    "Fuzzy",
+    "Search"
+  ],
+  "author": "wangjuunxin",
+  "license": "ISC",
+  "dependencies": {
+    "pinyin": "^2.9.1"
+  }
+}
